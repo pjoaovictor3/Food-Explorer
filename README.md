@@ -103,11 +103,6 @@ $ npm install
  - Obs: Apenas a tela foi feita!
 ![Orders](https://i.imgur.com/eQuTezu.png)
 
-## Link do deploy
-
-Você pode acessar a versão implantada do Delivery Online através do seguinte link: [Delivery Online](https://foodexplorerprogam.netlify.app)
-
-
 
 <h1>
   Backend
